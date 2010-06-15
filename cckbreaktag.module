@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @file Views CCK Break Tag
+ */
+
+ /**
+ * Implementation of hook_views_api().
+ */
+function cckbreaktag_views_api() {
+  return array(
+    'api' => 2,
+  );
+}

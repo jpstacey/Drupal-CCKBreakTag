@@ -1,0 +1,9 @@
+; $Id$
+; Info file for Views CCK Break Tag module
+name = Views CCK Break Tag
+description = Extend the CCK Views field handlers to filter nicely on a break comment
+core = 6.x
+
+dependencies[] = views
+dependencies[] = content
+package = Views
